@@ -1,0 +1,55 @@
+.title {
+    width: 100%;
+    height: 100px;
+    background-color:black;
+    display:flex;
+    justify-content:center;
+}
+h1 {
+    color:white;
+}
+
+.mainchungus {
+    background: url("https://www.dailydot.com/wp-content/uploads/2018/12/Big-Chungus-Meme.jpg") no-repeat center center;
+    background-size:cover;
+    height:500px;
+}
+img {
+    height:100%;
+    width:100%;
+}
+.twophotos {
+    display: flex;
+    align-items:center;
+    border:dotted gray 5px;
+}
+.secondmain_image{
+ width:50%;
+}   
+.third_chungus {
+    width:50%;
+ margin-left: auto;
+}
+.propaganda {
+    text-align:center;
+    font-size:50px;
+    color:white;
+    background-color:black;
+}
+.propagandatwo {
+    font-size:20px;
+    text-align:center;
+    color:white;
+    background-color:black;
+}
+.donate {
+    text-align:center;
+    background-color:lightblue;
+}
+.donate:hover {
+    color:blue;
+    cursor:pointer;
+    background-color:orange;
+    border:dotted black 5px;
+}
+    
